@@ -52,14 +52,6 @@ cmake --build . --config release
 - 🖥️ ui buttons: switch rendering modes
 - 🎚️ checkbox: toggle object visibility
 
-## project structure
-```
-project/
-├── src/           # source code
-├── build/         # build artifacts
-├── shaders/       # glsl shaders
-└── dependencies/  # external libraries
-```
 
 ## license
 [specify your license here]
@@ -68,7 +60,8 @@ project/
 contributions are welcome! please read the contribution guidelines before getting started.
 
 ## screenshot
-[add screenshots or gif demonstrating the application]
+![image](https://github.com/user-attachments/assets/0e51f94d-a1e2-4a9e-8151-2bf629f8cecf)
+
 
 ## troubleshooting
 - ensure all dependencies are correctly installed
