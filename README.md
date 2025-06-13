@@ -52,13 +52,6 @@ cmake --build . --config release
 - 🖥️ ui buttons: switch rendering modes
 - 🎚️ checkbox: toggle object visibility
 
-
-## license
-[specify your license here]
-
-## contributions
-contributions are welcome! please read the contribution guidelines before getting started.
-
 ## screenshot
 ![image](https://github.com/user-attachments/assets/0e51f94d-a1e2-4a9e-8151-2bf629f8cecf)
 
@@ -72,8 +65,3 @@ contributions are welcome! please read the contribution guidelines before gettin
 - real time fps display
 - lightweight rendering
 - optimized sphere generation
-
-## future roadmap
-- [ ] advanced lighting models
-- [ ] more complex mesh generation
-- [ ] additional rendering modes 
