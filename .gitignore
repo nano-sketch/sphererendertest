@@ -1,0 +1,85 @@
+# Build directories
+build/
+out/
+cmake-build*/
+bin/
+lib/
+
+# Visual Studio / VSCode files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependency directories
+vcpkg/
+dependencies/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Personal configuration files
+*.local
+.env
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# IDE-specific settings that might contain personal info
+.vscode/settings.json
+.idea/
+*.iml
+
+# Shader cache or compiled shaders
+*.spv
+
+# Temporary files
+*.tmp
+*.temp 
